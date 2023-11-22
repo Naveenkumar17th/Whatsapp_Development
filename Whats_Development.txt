@@ -1,0 +1,11 @@
+Whats_Development
+
+1.Log in page creation
+
+2.Sending message functionality
+
+3.Receiving message functionality
+
+5.video calling
+
+6.Last seen functionality

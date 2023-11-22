@@ -11,3 +11,5 @@ Whats_Development
 6.Last seen functionality
 
 7.Attaching file
+
+8.video call chatting functionality

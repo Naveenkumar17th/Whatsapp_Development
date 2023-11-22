@@ -9,3 +9,5 @@ Whats_Development
 5.video calling
 
 6.Last seen functionality
+
+7.Attaching file

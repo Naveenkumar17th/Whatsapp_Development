@@ -1,0 +1,3 @@
+syso.print.ln("naveen kumar");
+
+syso.print.ln("hai");
